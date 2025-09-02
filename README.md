@@ -10,6 +10,10 @@
 - **script.exe** → Compiled version of the GitHub-IP reverse shell (for Windows 64-bit).
 
 ---
+
+## Usage
+⚠️ Note: Windows Defender or antivirus may flag `script.exe`.  
+If that happens, use the `.bat` version or run inside a safe VM environment.
   
 Open scripts in your lab environment.
 
