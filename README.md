@@ -4,10 +4,10 @@
 ---
 
 ## 📌 Contents
-- **basic-reverse.bat** → Simple reverse shell script (manual IP entry).
-- **github-ip-reverse.bat** → Reverse shell that fetches IP dynamically from GitHub raw file.
+- **manual-reverse.bat** → Simple reverse shell script (manual IP entry).
+- **github-reverse.bat** → Reverse shell that fetches IP dynamically from GitHub raw file.
 - *(More scripts will be added as the lab grows.)*
-- **script.exe** → Compiled version of the GitHub-IP reverse shell (for Windows 64-bit).
+- **github-reverse.exe** → Compiled version of the GitHub-IP reverse shell (for Windows 64-bit).
 
 ---
 
