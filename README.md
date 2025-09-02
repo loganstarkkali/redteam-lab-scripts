@@ -10,3 +10,15 @@
 
 ---
   
+Open scripts in your lab environment.
+
+Follow the inline comments inside each .bat file.
+
+⚠️ Disclaimer
+
+These scripts are for ethical hacking labs only.
+Do not use them on systems you do not own or have explicit permission to test.
+
+👨‍💻 Author
+
+Created by [Your Name] as part of cybersecurity learning and red team practice.
