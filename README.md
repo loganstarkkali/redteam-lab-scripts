@@ -16,6 +16,7 @@
 If that happens, use the `.bat` version or run inside a safe VM environment.
   
 Open scripts in your lab environment.
+⚠️ Note: Run inside a safe VM or lab environment only.
 
 Follow the inline comments inside each .bat file.
 
